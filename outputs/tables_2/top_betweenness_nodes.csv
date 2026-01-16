@@ -1,0 +1,31 @@
+stop_id,name,borough,betweenness,deg,is_superloop_node
+490004377E,Broad Street / Teddington,Richmond upon Thames,0.3490198592504154,7,True
+490015206J,New Malden / the Fountain,Kingston upon Thames,0.34379000964240775,7,True
+490013979P,Hayes / the Grapes,Hillingdon,0.3424578707041986,5,True
+490003909N,Kingston / Wood Street,Kingston upon Thames,0.33771774233424523,6,True
+490000103C,Hatton Cross Station,Hillingdon,0.33762574982922955,5,True
+490001089E6,East Croydon Station,Croydon,0.33177417355899097,12,True
+490005800A1,Cromwell Road Bus Station,Kingston upon Thames,0.3313651673187428,6,True
+490014137E,Croydon Road / Wallington Green,Sutton,0.3295534926698913,4,True
+490013081L,Sutton Police Station,Sutton,0.32877153324476943,4,True
+4900801619,Heathrow Central Bus Station,Hillingdon,0.3252631696216111,5,True
+490007811B,Harlington Corner,Hillingdon,0.32525721207378516,6,True
+490001346B,Worcester Park Station,Kingston upon Thames,0.324774517802331,6,True
+490001144N,Hayes & Harlington Station,Hillingdon,0.324063682345907,5,True
+490004821D,Carshalton High Street,Sutton,0.32319996610958035,5,True
+490009564N,Harlington High Street / Sipson Lane,Hillingdon,0.32255221228877345,4,True
+490000828Z,Hayes Town Centre,Hillingdon,0.3217402608677738,6,True
+490009283B,North Cheam / London Road,Sutton,0.3184414407736127,4,True
+490005056C,Cheam Broadway,Sutton,0.3181585725395675,4,True
+490012096W,Shirley Library,Croydon,0.2980258071092008,7,True
+490014711N,Yeading Lane / Willow Tree Lane,Hillingdon,0.2967621467223771,5,True
+490015478N,Yeading / Tangmere Gardens,Ealing,0.29592432320456463,4,True
+490003949W,Wickham Road / Monks Orchard,Croydon,0.2859741656902712,5,True
+490000211F,South Harrow Station,Harrow,0.25778098161129004,8,True
+490014822W,Woodcock Hill / Kenton Lane,Brent,0.2576525793973298,5,True
+490000124II,Kenton Station,Brent,0.25655897632273994,5,True
+490000211G,South Harrow Station,Harrow,0.25561052146104035,6,True
+490007845B,Harrow Bus Station,Harrow,0.25504948877508576,6,True
+490000162A,Northolt Station,Ealing,0.2527816477947776,5,True
+490014992N1,Yeading / White Hart Roundabout,Ealing,0.2519265022611031,4,True
+490000128B,Kingsbury Station,Brent,0.24979590841697633,7,True
